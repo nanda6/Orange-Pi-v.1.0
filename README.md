@@ -1,4 +1,4 @@
-# Orange-Pi-v.1.0
+# Orange-Pi-Launcher-v.1.0
 
 Orange Launcher untuk Orange Pi 4 Pro
 
